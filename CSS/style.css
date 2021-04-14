@@ -50,7 +50,8 @@ code, pre {
 }
 
 .hidden {
-    visibility: 0;
+    visibility: hidden;
+    height: 0;
 }
 
 /*NAV BAR*/
