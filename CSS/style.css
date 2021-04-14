@@ -114,6 +114,10 @@ code, pre {
     justify-self: flex-end;
     animation: slideInFromRight 1s ease-in;
 }
+.showcase-form .hidden {
+Visibility: hidden;
+Height: 0;
+}
 
 .showcase-form .form-control {
     margin: 30px 0;
