@@ -49,14 +49,11 @@ code, pre {
     padding: 10px;
 }
 
-<<<<<<< HEAD
 .hidden {
     visibility: hidden;
     height: 0;
 }
 
-=======
->>>>>>> 7e896a9a1e1e557e53685143f7108422aed79391
 /*NAV BAR*/
 .navbar {
     background-color:var(--primary-color) ;
